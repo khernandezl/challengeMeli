@@ -1,0 +1,9 @@
+D:\Docs\Challenge\ChallengeMeli\ChallengeMeli\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Docs\Challenge\ChallengeMeli\ChallengeMeli\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Docs\Challenge\ChallengeMeli\ChallengeMeli\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Docs\Challenge\ChallengeMeli\ChallengeMeli\obj\Debug\netcoreapp3.1\ChallengeMeli.csprojAssemblyReference.cache
+D:\Docs\Challenge\ChallengeMeli\ChallengeMeli\obj\Debug\netcoreapp3.1\ChallengeMeli.AssemblyInfoInputs.cache
+D:\Docs\Challenge\ChallengeMeli\ChallengeMeli\obj\Debug\netcoreapp3.1\ChallengeMeli.AssemblyInfo.cs
+D:\Docs\Challenge\ChallengeMeli\ChallengeMeli\obj\Debug\netcoreapp3.1\ChallengeMeli.RazorTargetAssemblyInfo.cache
+D:\Docs\Challenge\ChallengeMeli\ChallengeMeli\obj\Debug\netcoreapp3.1\staticwebassets\ChallengeMeli.StaticWebAssets.Manifest.cache
+D:\Docs\Challenge\ChallengeMeli\ChallengeMeli\obj\Debug\netcoreapp3.1\staticwebassets\ChallengeMeli.StaticWebAssets.xml
